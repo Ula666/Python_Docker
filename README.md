@@ -18,4 +18,7 @@ docker run -dit -p 8000:8000 rrose666/airport-project
  ```
  docker push rrose666/airport-project:latest
  ```
- 
+7. Open a web browser and run
+```
+http://localhost:8000/
+```
