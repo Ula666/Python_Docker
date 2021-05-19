@@ -22,3 +22,17 @@ docker run -dit -p 8000:8000 rrose666/airport-project
 ```
 http://localhost:8000/
 ```
+
+
+### web hooh:
+- create a web hook in google app scripts
+- add web hook in your docker hub repo
+- to commit changes
+
+```
+docker commit f7d279f6dfcc rrose666/airport-project 
+```
+- and push it to docker hub
+ ```
+ docker push rrose666/airport-project:latest
+ ```
