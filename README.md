@@ -24,7 +24,7 @@ http://localhost:8000/
 ```
 
 
-### web hooh:
+### web hook:
 - create a web hook in google app scripts
 - add web hook in your docker hub repo
 - to commit changes
